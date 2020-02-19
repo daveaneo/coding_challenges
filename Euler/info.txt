@@ -1,2 +1,0 @@
-Answers to project Euler challenges
-https://projecteuler.net
