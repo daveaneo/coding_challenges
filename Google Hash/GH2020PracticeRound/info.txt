@@ -1,0 +1,1 @@
+This directory contains the information for the practice round during the 2020 Google Hash contest.
